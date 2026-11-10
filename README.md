@@ -17,7 +17,7 @@
 
 ## 👩‍💻 Sobre mí
 
-> Soy estudiante de Ingeniería en Sistemas Informáticos en la Universidad Católica de El Salvador. Disfruto crear aplicaciones web, diseñar bases de datos y trabajar en equipo. Me interesan el backend, la seguridad informática y las interfaces que se sienten bien de usar.
+>Soy estudiante de Ingeniería en Sistemas Informáticos en la Universidad Católica de El Salvador y me interesa mucho el desarrollo de software. Disfruto crear proyectos web y móviles y aprender cosas nuevas todos los días. Me atraen el backend, las bases de datos y el diseño de interfaces (UI/UX). Estoy abierta a oportunidades para seguir aprendiendo, crecer y aportar en nuevos proyectos.
 
 <br>
 
