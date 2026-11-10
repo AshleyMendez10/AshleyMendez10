@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/AshleyMendez10/AshleyMendez10/main/assets/nombre.svg" width="900" alt="Ashley Méndez" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=Desarrolladora+de+software+%7C+Backend+%26+UI;Estudiante+de+Ingenier%C3%ADa+en+Sistemas+Inform%C3%A1ticos;Me+gusta+el+backend%2C+las+bases+de+datos+y+el+UI%2FUX;Aprendiendo+y+construyendo+proyectos" alt="Desarrolladora de software | Backend & UI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=Desarrolladora+de+software+%7C+Backend+%26+UI;Estudiante+de+Ingenier%C3%ADa+en+Sistemas+Inform%C3%A1ticos;Me+gusta+el+backend%2C+las+bases+de+datos+y+el+UI%2FUX;Aprendiendo+y+construyendo+proyectos+en+equipo" alt="Desarrolladora de software | Backend & UI" />
 
 <br>
 
@@ -17,7 +17,9 @@
 
 ## 👩‍💻 Sobre mí
 
->Soy estudiante de Ingeniería en Sistemas Informáticos en la Universidad Católica de El Salvador y me interesa mucho el desarrollo de software. Disfruto crear proyectos web y móviles y aprender cosas nuevas todos los días. Me atraen el backend, las bases de datos y el diseño de interfaces (UI/UX). Estoy abierta a oportunidades para seguir aprendiendo, crecer y aportar en nuevos proyectos.
+> Soy estudiante de Ingeniería en Sistemas Informáticos en la Universidad Católica de El Salvador y me interesa mucho el desarrollo de software. Disfruto crear proyectos web y móviles y aprender cosas nuevas todos los días. Me atraen el backend, las bases de datos y el diseño de interfaces (UI/UX). Estoy abierta a oportunidades para seguir aprendiendo, crecer y aportar en nuevos proyectos.
+
+![Abierta a oportunidades](https://img.shields.io/badge/🟢_Abierta_a-oportunidades-22C55E?style=for-the-badge&labelColor=0d1117)
 
 <br>
 
@@ -77,72 +79,12 @@ Arduino · NodeMCU · Cisco Packet Tracer
 
 ## 🚀 Proyectos
 
-<table>
-<tr>
-<th colspan="2" align="left">☕ &nbsp;<a href="https://github.com/AshleyMendez10/POS-CORDILLERAS">POS-Cordilleras</a> &nbsp;·&nbsp; Sistema para una cafetería</th>
-</tr>
-<tr>
-<td width="65%" valign="top">
+<div align="center">
 
-**Proyecto académico en equipo. Mi parte:**
-- Módulos de notificaciones, chatbot, reportes y auditoría (frontend y backend)
-- Integración con la base de datos
-- Manual del desarrollador, diccionario de datos y documentación de la estructura de la base de datos
+<a href="https://github.com/AshleyMendez10/POS-CORDILLERAS"><img src="https://raw.githubusercontent.com/AshleyMendez10/AshleyMendez10/main/assets/card-pos.svg" width="460" alt="POS-Cordilleras" hspace="12" vspace="8" /></a>
+<a href="https://github.com/AshleyMendez10/TeBuscan"><img src="https://raw.githubusercontent.com/AshleyMendez10/AshleyMendez10/main/assets/card-tebuscan.svg" width="460" alt="TeBuscan" hspace="12" vspace="8" /></a>
 
-</td>
-<td width="35%" valign="middle" align="center">
-
-**Tecnologías**<br><br>
-<img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres&theme=dark" alt="Tecnologías POS-Cordilleras" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<th colspan="2" align="left">💼 &nbsp;<a href="https://github.com/AshleyMendez10/TeBuscan">TeBuscan</a> &nbsp;·&nbsp; Plataforma de empleo</th>
-</tr>
-<tr>
-<td width="65%" valign="top">
-
-**Proyecto académico en equipo. Mi parte:**
-- Inicio de sesión, registro, perfiles de empresa y candidato, y página principal de candidatos
-- Autenticación y manejo de sesiones
-- Control de acceso por tres roles: administrador, empresa y candidato
-
-</td>
-<td width="35%" valign="middle" align="center">
-
-**Tecnologías**<br><br>
-<img src="https://skillicons.dev/icons?i=solidjs,nodejs,express,supabase,postgres&theme=dark" alt="Tecnologías TeBuscan" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<th colspan="2" align="left">🍕 &nbsp;Sistema de comandas para pizzería</th>
-</tr>
-<tr>
-<td width="65%" valign="top">
-
-**Proyecto académico.** Toma de pedidos, gestión de menús y reportes, con programación orientada a objetos, patrón MVC y almacenamiento en JSON.
-
-</td>
-<td width="35%" valign="middle" align="center">
-
-**Tecnologías**<br><br>
-<img src="https://skillicons.dev/icons?i=cs,visualstudio&theme=dark" alt="Tecnologías pizzería" /><br>C# · Windows Forms
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
