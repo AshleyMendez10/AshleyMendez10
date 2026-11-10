@@ -204,7 +204,7 @@ Español (nativo) · Inglés (intermedio)
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashley_Méndez-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/ashley-alejandra-mendez-torres-382965418)
-[![Instagram](https://img.shields.io/badge/Instagram-@TU_USUARIO-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/TU_USUARIO)
+[![Instagram](https://img.shields.io/badge/Instagram-@aashh.mendez-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/aashh.mendez)
 [![Correo](https://img.shields.io/badge/ashley.mendezdev@gmail.com-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ashley.mendezdev@gmail.com)
 
 </div>
