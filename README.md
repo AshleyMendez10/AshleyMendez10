@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/AshleyMendez10/AshleyMendez10/main/assets/nombre.svg" width="900" alt="Ashley Méndez" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=Desarrolladora+de+software+%7C+Backend+%26+UI;Estudiante+de+Ingenier%C3%ADa+en+Sistemas+Inform%C3%A1ticos;Me+gusta+el+backend%2C+las+bases+de+datos+y+el+UI%2FUX;Aprendiendo+y+construyendo+proyectos+en+equipo" alt="Desarrolladora de software | Backend & UI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=Desarrolladora+de+software+%7C+Backend+%26+UI;Estudiante+de+Ingenier%C3%ADa+en+Sistemas+Inform%C3%A1ticos;Me+gusta+el+backend%2C+las+bases+de+datos+y+el+UI%2FUX;Aprendiendo+y+construyendo+proyectos" alt="Desarrolladora de software | Backend & UI" />
 
 <br>
 
