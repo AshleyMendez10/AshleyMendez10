@@ -81,8 +81,8 @@ Arduino · NodeMCU · Cisco Packet Tracer
 
 <div align="center">
 
-<a href="https://github.com/AshleyMendez10/POS-CORDILLERAS"><img src="https://raw.githubusercontent.com/AshleyMendez10/AshleyMendez10/main/assets/card-pos.svg" width="460" alt="POS-Cordilleras" hspace="12" vspace="8" /></a>
-<a href="https://github.com/AshleyMendez10/TeBuscan"><img src="https://raw.githubusercontent.com/AshleyMendez10/AshleyMendez10/main/assets/card-tebuscan.svg" width="460" alt="TeBuscan" hspace="12" vspace="8" /></a>
+<a href="https://github.com/AshleyMendez10/POS-CORDILLERAS"><img src="https://raw.githubusercontent.com/AshleyMendez10/AshleyMendez10/main/assets/card-pos.svg" width="420" alt="POS-Cordilleras" hspace="6" vspace="8" /></a>
+<a href="https://github.com/AshleyMendez10/TeBuscan"><img src="https://raw.githubusercontent.com/AshleyMendez10/AshleyMendez10/main/assets/card-tebuscan.svg" width="420" alt="TeBuscan" hspace="6" vspace="8" /></a>
 
 </div>
 
